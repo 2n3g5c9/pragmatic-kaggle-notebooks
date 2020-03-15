@@ -1,3 +1,5 @@
-inputs/
-outputs/
+input/
+output/
+catboost_info/
+.ipynb_checkpoints/
 .idea/

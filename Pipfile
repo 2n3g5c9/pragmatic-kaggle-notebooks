@@ -8,12 +8,14 @@ verify_ssl = true
 [packages]
 catboost = "*"
 jupyter = "*"
+kaggle = "*"
 lightgbm = "*"
 matplotlib = "*"
 numpy = "*"
 pandas = "*"
 scikit-learn = "*"
-xgboost = "*"
+seaborn = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.7"

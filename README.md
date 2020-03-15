@@ -14,7 +14,7 @@
 
 ### Prerequisites
 
-You must have **[Python 3](https://www.python.org/downloads/)** and **[Jupyter](https://jupyter.org/install)** installed, as well as the Python dependencies specific to each project. (I recommend using **[Anaconda](https://www.anaconda.com/download/)**.)
+You must have **[Python 3.7](https://www.python.org/downloads/)** and **[Jupyter](https://jupyter.org/install)** installed, as well as the Python dependencies specific to each project (you can use **[Pipenv](https://github.com/pypa/pipenv)**).
 
 ### Installation
 
